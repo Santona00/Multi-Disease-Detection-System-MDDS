@@ -1,5 +1,5 @@
 numpy
-pickle
+pickle-mixin
 streamlit
 streamlit-option-menu
 scikit-learn
